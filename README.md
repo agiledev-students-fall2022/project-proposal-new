@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8411232&assignment_repo_type=AssignmentRepo)
 # Project Proposal
 ## Project Title : ArtistsGo
+Created by Genie Hou ch3801
 ## What and Why
 This project will gather the artists we have in NYU for people to aquire their products or services and inspire collaboration between student artists.
 There are many many NYU students who have incredible talents. I have met people who can do nail art better than nail salons, make candles, paint pet portraits for their friends, and much more.
